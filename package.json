@@ -1,0 +1,18 @@
+{
+  "name": "03-node-fundamentals",
+  "version": "0.0.1",
+  "description": "It is a simple multiplication table.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bryan Fernando",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.3.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
